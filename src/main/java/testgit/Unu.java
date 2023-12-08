@@ -12,5 +12,6 @@ public class Unu {
 
     public void testaltceva(){
         //linie adaugata pe branch
+        //linie adaugata pe remote
     }
 }
