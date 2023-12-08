@@ -11,4 +11,8 @@ public class Unu {
         //linie adaugata pe master nr5
 
     }
+
+    public void testaltceva(){
+        //linie adaugata pe branch
+    }
 }
